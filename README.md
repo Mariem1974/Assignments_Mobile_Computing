@@ -1,6 +1,6 @@
 # Assignments Tracker
 
-| Assignment Name | Date | Link |
-| :--- | :--- | :--- |
-| Assignment 1 | 2026-02-24 | [View Task](./Assignment1) |
+| Assignment | Description | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **Assignment 1** | Professional To-Do App with Theme Toggle | ✅ Completed | [View on Expo Snack](https://snack.expo.dev/@mariemmaher/to-do-list-app) |
 | Assignment 2 | -- | Pending |
