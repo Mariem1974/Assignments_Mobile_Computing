@@ -1,4 +1,4 @@
-# 📝 Actively - Task Management App
+# 📝 Actively - TO DO App
 
 This is a professional **React Native** application built as part of **Assignment 1**. The app focuses on providing a clean User Interface with a smooth User Experience for daily task management.
 
